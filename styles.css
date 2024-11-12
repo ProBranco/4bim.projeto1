@@ -11,7 +11,8 @@
     --laranja: #EB9B00;
     --preto-degrade: linear-gradient(97.54deg, #000000 35.49%, #333333 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #002F52;
+    --preto: #000000;
+;
 }
 
 body {
